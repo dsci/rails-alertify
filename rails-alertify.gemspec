@@ -1,15 +1,15 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain your gem's version:
-require "alertify-rails/version"
+require "rails-alertify/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "alertify-rails"
+  s.name        = "rails-alertify"
   s.version     = AlertifyRails::VERSION
   s.authors     = ["Daniel Schmidt"]
   s.email       = ["dsci@code79.net"]
-  s.homepage    = "https://github.com/dsci/alertify-rails"
+  s.homepage    = "https://github.com/dsci/rails-alertify"
   s.summary     = %q{alertify.js asset pipeline integration}
 
   s.files         = `git ls-files`.split("\n")

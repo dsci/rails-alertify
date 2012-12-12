@@ -1,4 +1,4 @@
-require 'alertify-rails/version'
+require 'rails-alertify/version'
 module Alertify
   module Rails
     if defined?(::Rails) and ::Rails.version >= "3.1"

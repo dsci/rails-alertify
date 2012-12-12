@@ -7,7 +7,7 @@ Rails asset-pipeline gem to provide alertify.js out of the box.
 Add to your Gemfile:
 
 ```ruby
-gem "alertify-rails"
+gem "rails-alertify"
 ```
 
 ### Usage
