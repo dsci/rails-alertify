@@ -1,4 +1,4 @@
-# Alertify.js for Rails
+# Alertify.js Version 0.3.10 for Rails
 
 Rails asset-pipeline gem to provide alertify.js out of the box.
 
@@ -24,12 +24,13 @@ If your manifest is written in CoffeeScript:
 #= require alertify
 ```
 
-Last step is to add the <code>core</code> and <code>default</code> stylesheets tou your application if you want to use the default ones.
+Last step is to add the <code>core</code>, <code>default</code> or <code>bootstrap</code> stylesheets to your application if you want to use the default ones.
 
 ```css
 /*
  *= require alertify/core
  *= require alertify/default
+ *= require alertify/bootstrap
  *
  */
 ```
