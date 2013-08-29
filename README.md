@@ -1,4 +1,4 @@
-# Alertify.js for Rails V 0.3.10
+# Alertify.js Version 0.3.10 for Rails
 
 Rails asset-pipeline gem to provide alertify.js out of the box.
 
