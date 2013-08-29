@@ -1,4 +1,4 @@
-# Alertify.js for Rails
+# Alertify.js for Rails V 0.3.10
 
 Rails asset-pipeline gem to provide alertify.js out of the box.
 
@@ -30,6 +30,7 @@ Last step is to add the <code>core</code> and <code>default</code> stylesheets t
 /*
  *= require alertify/core
  *= require alertify/default
+ *= require alertify/bootstrap
  *
  */
 ```
