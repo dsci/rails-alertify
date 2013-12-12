@@ -2,7 +2,7 @@
 
 **Note**: I will not maintain that gem anymore. If you want to use it anyway, it gives me pleasure. 
 
-Anyhow, there is a better [solution](https://rails-assets.org/) that uses to the original bower package.
+Anyhow, there is a better [solution](https://rails-assets.org/) that uses the original bower package.
 
 Add ```source 'https://rails-assets.org``` as new source to your Gemfile. After that upgrade your ```assets``` group:
 
