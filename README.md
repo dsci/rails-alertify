@@ -1,6 +1,6 @@
 # Alertify.js Version 0.3.10 for Rails
 
-**Note**: I will not maintenance that gem anymore. If you want to use it anyway, it gives me pleasure. 
+**Note**: I will not maintain that gem anymore. If you want to use it anyway, it gives me pleasure. 
 
 Anyhow, there is a better [solution](https://rails-assets.org/) that uses to the original bower package.
 
